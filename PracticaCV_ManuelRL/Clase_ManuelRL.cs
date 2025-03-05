@@ -8,5 +8,18 @@ namespace PracticaCV_ManuelRL
 {
     internal class Clase_ManuelRL
     {
+
+        //CONSTANTES
+
+        //MIEMBROS PRIVADOS
+
+        //CONSTRUCTORES
+
+        //PROPIEDADES
+
+        //MÉTODOS PRIVADOS
+
+        //MÉTODOS PÚBLICOS
+
     }
 }
